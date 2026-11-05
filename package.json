@@ -1,0 +1,25 @@
+{
+  "name": "thatopen-bcf-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@thatopen/components": "3.6.0",
+    "@thatopen/components-front": "3.6.0",
+    "@thatopen/fragments": "3.6.0",
+    "@thatopen/ui": "3.4.17",
+    "camera-controls": "3.1.2",
+    "jszip": "3.10.1",
+    "stats.js": "0.17.0",
+    "three": "0.184.0",
+    "web-ifc": "0.0.77"
+  },
+  "devDependencies": {
+    "@types/stats.js": "0.17.4",
+    "@types/three": "0.184.0",
+    "typescript": "5.9.3",
+    "vite": "8.0.3"
+  }
+}
